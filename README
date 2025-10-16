@@ -14,3 +14,19 @@ Acesse o projeto usando o comando no git bash: cd Aula-do-Professor-Raul
 
 para rodar(acessar) o projeto digite: code .
 
+# Análise e Projeto de Sistemas 2 - Atividades
+
+Este repositório contém todas as atividades realizadas durante o curso **Análise e Projeto de Sistemas 2**. O objetivo é organizar e disponibilizar os exercícios e projetos desenvolvidos, facilitando a consulta e estudo futuro.
+
+---
+
+## Estrutura do Repositório
+
+
+- Exercícios práticos de análise e modelagem de sistemas.
+- Projetos implementados em Java, incluindo classes, pacotes e métodos.
+- Estrutura modular de código para facilitar entendimento e manutenção.
+
+1. Clone o repositório:
+
+https://github.com/Fhiranoyama/Aula-do-Professor-Raul.git
