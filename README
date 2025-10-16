@@ -1,0 +1,16 @@
+# APS2II
+
+AULA 02 ANALISE E PROJETO DE SISTEMAS
+---
+
+ACESSANDO O PROJETO:
+
+### 1. Clonar o repositório
+Abra o git bash e clone o repositorio com o seguinte comando:
+
+git clone https://github.com/Fhiranoyama/Aula-do-Professor-Raul.git
+
+Acesse o projeto usando o comando no git bash: cd Aula-do-Professor-Raul
+
+para rodar(acessar) o projeto digite: code .
+
