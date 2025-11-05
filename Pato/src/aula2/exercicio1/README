@@ -1,0 +1,18 @@
+# APS2II
+
+Este repositório contém o projeto da disciplina **APS II**.  
+Aqui você encontrará os arquivos necessários para rodar e contribuir com o projeto.
+
+---
+
+ACESSANDO O PROJETO:
+
+### 1. Clonar o repositório
+Abra o git bash e clone o repositorio com o seguinte comando:
+
+git clone https://github.com/Israel-ferreira77/aps2ii.git
+
+Acesse o projeto usando o comando no git bash: cd aps2ii
+
+para rodar(acessar) o projeto digite: code .
+
